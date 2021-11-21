@@ -1,0 +1,866 @@
+[
+    {
+        "newName": "Czechia",
+        "date": "2016",
+        "formerName": "Czech Republic",
+        "location": "Central Europe"
+    },
+    {
+        "newName": "Cabo Verde, Republic of",
+        "date": "2013",
+        "formerName": "Cape Verde, Republic of",
+        "location": "W. Africa"
+    },
+    {
+        "newName": "Samoa and Tokelau",
+        "date": "2012",
+        "formerName": "Samoa and Tokelau",
+        "location": "Moved to western side of International Date Line"
+    },
+    {
+        "newName": "South Sudan",
+        "date": "2011",
+        "formerName": "Sudan",
+        "location": "N.E. Africa"
+    },
+    {
+        "newName": "Montenegro",
+        "date": "2006",
+        "formerName": "Serbia and Montenegro",
+        "location": "W. of Romania"
+    },
+    {
+        "newName": "Serbia",
+        "date": "2006",
+        "formerName": "Serbia and Montenegro",
+        "location": "W. of Romania"
+    },
+    {
+        "newName": "Serbia and Montenegro",
+        "date": "2003",
+        "formerName": "Serbia(pt.)",
+        "location": "E. of Italy"
+    },
+    {
+        "newName": "East Timor",
+        "date": "1999",
+        "formerName": "Indonesia (pt.)",
+        "location": "isle N. of Australia"
+    },
+    {
+        "newName": "Congo, Dem. Repub. Of *",
+        "date": "1997",
+        "formerName": "Zaire *",
+        "location": "central Africa, straddles Equator"
+    },
+    {
+        "newName": "Samoa",
+        "date": "1997",
+        "formerName": "Western Samoa",
+        "location": "S.Pacific Ocean, near Intern.Dateline"
+    },
+    {
+        "newName": "Czech. Rep.",
+        "date": "1993",
+        "formerName": "Czechoslovakia (pt.)",
+        "location": "S. of Germany & Poland"
+    },
+    {
+        "newName": "Eritrea *",
+        "date": "1993",
+        "formerName": "Ethiopia (pt.)",
+        "location": "N. of Ethiopia, S. end of Red Sea"
+    },
+    {
+        "newName": "Slovakia",
+        "date": "1993",
+        "formerName": "Czechoslovakia (pt.)",
+        "location": "S. of Poland"
+    },
+    {
+        "newName": "Serbia",
+        "date": "1992",
+        "formerName": "Yugoslavia (pt.)",
+        "location": "E. of Italy"
+    },
+    {
+        "newName": "Bosnia-Herzegovina",
+        "date": "1992",
+        "formerName": "Yugoslavia (pt.)",
+        "location": "E. of Italy"
+    },
+    {
+        "newName": "Croatia",
+        "date": "1992",
+        "formerName": "Yugoslavia (pt.)",
+        "location": "E. of Italy"
+    },
+    {
+        "newName": "Macedonia",
+        "date": "1992",
+        "formerName": "Yugoslavia (pt.)",
+        "location": "N. of Greece"
+    },
+    {
+        "newName": "Slovenia",
+        "date": "1992",
+        "formerName": "Yugoslavia (pt.)",
+        "location": "E. of Italy"
+    },
+    {
+        "newName": "Armenia",
+        "date": "1991",
+        "formerName": "Armenian S.S.R.",
+        "location": "betw. Caspian & Black seas"
+    },
+    {
+        "newName": "Azerbaijan",
+        "date": "1991",
+        "formerName": "Azerbaydjzhan S.S.R.",
+        "location": "betw. Caspian & Black seas"
+    },
+    {
+        "newName": "Belarus",
+        "date": "1991",
+        "formerName": "Byelorussian S.S.R.",
+        "location": "NE. Europe"
+    },
+    {
+        "newName": "Estonia",
+        "date": "1991",
+        "formerName": "Estonian S.S.R.",
+        "location": "NE. Europe"
+    },
+    {
+        "newName": "Georgia",
+        "date": "1991",
+        "formerName": "Georgian S.S.R.",
+        "location": "betw. Caspian & Black seas"
+    },
+    {
+        "newName": "Kazakhstan",
+        "date": "1991",
+        "formerName": "Kazakh S.S.R.",
+        "location": "S.of Russia, NW. of China"
+    },
+    {
+        "newName": "Kyrgyzstan",
+        "date": "1991",
+        "formerName": "Kirghiz S.S.R.",
+        "location": "W. of China"
+    },
+    {
+        "newName": "Latvia",
+        "date": "1991",
+        "formerName": "Latvian S.S.R.",
+        "location": "NE. Europe"
+    },
+    {
+        "newName": "Lithuania",
+        "date": "1991",
+        "formerName": "Lithuanian S.S.R.",
+        "location": "NE. Europe"
+    },
+    {
+        "newName": "Moldova",
+        "date": "1991",
+        "formerName": "Moldavian S.S.R.",
+        "location": "eastern Europe"
+    },
+    {
+        "newName": "Russia",
+        "date": "1991",
+        "formerName": "Russian S.S.R.",
+        "location": "northern Europe / Asia"
+    },
+    {
+        "newName": "Tajikistan",
+        "date": "1991",
+        "formerName": "Tajik S.S.R.",
+        "location": "W. of China"
+    },
+    {
+        "newName": "Turkmenistan",
+        "date": "1991",
+        "formerName": "Turkmen S.S.R.",
+        "location": "N. of Iran, E. of Caspian Sea"
+    },
+    {
+        "newName": "Ukraine",
+        "date": "1991",
+        "formerName": "Ukrainian S.S.R.",
+        "location": "eastern Europe"
+    },
+    {
+        "newName": "Uzbekistan",
+        "date": "1991",
+        "formerName": "Uzbek S.S.R.",
+        "location": "N. of Iran, E. of Caspian Sea"
+    },
+    {
+        "newName": "Germany *",
+        "date": "1990",
+        "formerName": "East Germany, West Germany unifies",
+        "location": "northern Europe"
+    },
+    {
+        "newName": "Namibia",
+        "date": "1990",
+        "formerName": "Southwest Africa (S. Afr.)",
+        "location": "SW. African coast"
+    },
+    {
+        "newName": "Yemen",
+        "date": "1990",
+        "formerName": "Nth & Sth Yemen unifies",
+        "location": "S. end of Red Sea"
+    },
+    {
+        "newName": "Marshall Islands",
+        "date": "1986",
+        "formerName": "Marshall Islands (U.S.)",
+        "location": "Pacific, N. of Equator, near Intern.Dateline"
+    },
+    {
+        "newName": "Micronesia, Federated States of",
+        "date": "1986",
+        "formerName": "Micronesia, Federated States of (U.S.)",
+        "location": "Pacific, N. of Equator, E. of Philippines"
+    },
+    {
+        "newName": "Nevis (See St. Kitts & Nevis)",
+        "date": "1983",
+        "formerName": " ",
+        "location": "isles in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "St .Kitts & Nevis",
+        "date": "1983",
+        "formerName": "Leeward Is. (Br.)",
+        "location": "isles in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Antigua and Barbuda",
+        "date": "1981",
+        "formerName": "Antigua (Br.) Barbuda (Br.)",
+        "location": "isles in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Barbuda (See Antigua and Barbuda)",
+        "date": "1981",
+        "formerName": " ",
+        "location": " "
+    },
+    {
+        "newName": "Belize",
+        "date": "1981",
+        "formerName": "British Honduras",
+        "location": "S. of Yucatan, E. of Guatemala"
+    },
+    {
+        "newName": "Vanuatu",
+        "date": "1980",
+        "formerName": "New Hebrides Islands (Br. & Fr.)",
+        "location": "S. Pacific, W. of Intern.Dateline"
+    },
+    {
+        "newName": "Zimbabwe",
+        "date": "1980",
+        "formerName": "Rhodesia",
+        "location": "SE. Africa"
+    },
+    {
+        "newName": "Grenadines (See St. Vincent)",
+        "date": "1979",
+        "formerName": " ",
+        "location": " "
+    },
+    {
+        "newName": "Kiribati",
+        "date": "1979",
+        "formerName": "Gilbert Is. & Phoenix Is. (Br.)",
+        "location": "Pacific Ocean at the Equator"
+    },
+    {
+        "newName": "Saint Lucia",
+        "date": "1979",
+        "formerName": "Saint Lucia (Br.)",
+        "location": "isle in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Saint Vincent & The Grenadines",
+        "date": "1979",
+        "formerName": "Saint Vincent (Br.)",
+        "location": "isles in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Dominica",
+        "date": "1978",
+        "formerName": "Dominica (Br.)",
+        "location": "isle in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Solomon Islands",
+        "date": "1978",
+        "formerName": "Solomon Islands (Br.)",
+        "location": "isles NE. of Australia"
+    },
+    {
+        "newName": "Tuvalu",
+        "date": "1978",
+        "formerName": "Ellice Is. (Br.)",
+        "location": "S. Pacific, W. of Intern.Dateline"
+    },
+    {
+        "newName": "Djibouti",
+        "date": "1977",
+        "formerName": "French Somaliland",
+        "location": "S. end of Red Sea, across Yemen"
+    },
+    {
+        "newName": "Seychelles",
+        "date": "1976",
+        "formerName": "Seychelles (Br.) Seychelle Dependencies (Br.)",
+        "location": "N. of Madagascar, near the Equator"
+    },
+    {
+        "newName": "Vietnam",
+        "date": "1976",
+        "formerName": "North & South Vietnam unifies",
+        "location": "S. of China"
+    },
+    {
+        "newName": "Western Sahara (admin. by Morocco)",
+        "date": "1976",
+        "formerName": "Rio de Oro (Spanish Sahara )",
+        "location": "NW. African coast"
+    },
+    {
+        "newName": "Cape Verde",
+        "date": "1975",
+        "formerName": "Cape Verde (Port.)",
+        "location": "isles W. of African coast"
+    },
+    {
+        "newName": "Comoros",
+        "date": "1975",
+        "formerName": "Iles Comore (Fr.)",
+        "location": "isles E. of Mozambique"
+    },
+    {
+        "newName": "Papua New Guinea",
+        "date": "1975",
+        "formerName": "Papua (Austr.)",
+        "location": "N. of Australia"
+    },
+    {
+        "newName": "Principe (See Sao Tome)",
+        "date": "1975",
+        "formerName": " ",
+        "location": " "
+    },
+    {
+        "newName": "Sao Tome & Principe",
+        "date": "1975",
+        "formerName": "Sao Tome , Principe (Port.)",
+        "location": "W. African coast at the Equator"
+    },
+    {
+        "newName": "Suriname",
+        "date": "1975",
+        "formerName": "Dutch Guiana",
+        "location": "N. coast of So. America"
+    },
+    {
+        "newName": "Grenada",
+        "date": "1974",
+        "formerName": "Grenada (Br.)",
+        "location": "isle in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Guinea-Bissau",
+        "date": "1974",
+        "formerName": "Portuguese Guinea",
+        "location": "W. African coast"
+    },
+    {
+        "newName": "Bahamas, The",
+        "date": "1973",
+        "formerName": "Bahama Is. (Br.)",
+        "location": "off SE. coast of Florida"
+    },
+    {
+        "newName": "Bangladesh",
+        "date": "1972",
+        "formerName": "India (pt.)",
+        "location": "betw. India and Burma"
+    },
+    {
+        "newName": "Qatar",
+        "date": "1971",
+        "formerName": "Hadhramaut , Aden Br. Protectorate (pt.)",
+        "location": "betw. Saudi Arabia & Persian Gulf"
+    },
+    {
+        "newName": "United Arab Emirates",
+        "date": "1971",
+        "formerName": "Oman (pt.)",
+        "location": "betw. Saudi Arabia & Persian Gulf"
+    },
+    {
+        "newName": "Zaire *",
+        "date": "1971",
+        "formerName": "Congo, Dem. Repub. Of *",
+        "location": "central Africa, straddles Equator"
+    },
+    {
+        "newName": "Fiji",
+        "date": "1970",
+        "formerName": "Fiji Is. (Br.)",
+        "location": "S. Pacific, W. of Intern.Dateline"
+    },
+    {
+        "newName": "Tonga",
+        "date": "1970",
+        "formerName": "Tonga Is. (Br.)",
+        "location": "S. Pacific, W. of Intern.Dateline"
+    },
+    {
+        "newName": "Equatorial Guinea",
+        "date": "1968",
+        "formerName": "Fernando Po, Rio Muni (Spanish Guinea)",
+        "location": "W. coast of Africa at the Equator"
+    },
+    {
+        "newName": "Mauritius",
+        "date": "1968",
+        "formerName": "Mauritius (Br.)",
+        "location": "E. of Madagascar, in Indian Ocean"
+    },
+    {
+        "newName": "Nauru",
+        "date": "1968",
+        "formerName": "Nauru (Br.)",
+        "location": "Pacific, near Equator, W. of Intern.Dateline"
+    },
+    {
+        "newName": "Yemen, South",
+        "date": "1967",
+        "formerName": "Hadhramaut or Aden Br. Protectorate",
+        "location": "S. end of Red Sea"
+    },
+    {
+        "newName": "Barbados",
+        "date": "1966",
+        "formerName": "Barbados (Br.)",
+        "location": "isle in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Botswana",
+        "date": "1966",
+        "formerName": "Bechuanaland",
+        "location": "S. central Africa"
+    },
+    {
+        "newName": "Guyana",
+        "date": "1966",
+        "formerName": "Br. Guyana (or Guiana)",
+        "location": "northern So.America"
+    },
+    {
+        "newName": "Lesotho",
+        "date": "1966",
+        "formerName": "Basutoland",
+        "location": "S. Africa"
+    },
+    {
+        "newName": "Maldives",
+        "date": "1965",
+        "formerName": "Maldive Islands",
+        "location": "isle group SW. of India"
+    },
+    {
+        "newName": "Rhodesia",
+        "date": "1965",
+        "formerName": "Southern Rhodesia",
+        "location": "SE. Africa"
+    },
+    {
+        "newName": "Malawi",
+        "date": "1964",
+        "formerName": "Nyasaland",
+        "location": "SE. Africa"
+    },
+    {
+        "newName": "Malta",
+        "date": "1964",
+        "formerName": "Malta (Br.)",
+        "location": "S. of Sicily, in Mediterranean Sea"
+    },
+    {
+        "newName": "Tanzania",
+        "date": "1964",
+        "formerName": "Tanganyika , Zanzibar unifies",
+        "location": "E. Africa, S. of Equator"
+    },
+    {
+        "newName": "Zambia",
+        "date": "1964",
+        "formerName": "Northern Rhodesia",
+        "location": "S. central Africa"
+    },
+    {
+        "newName": "Algeria",
+        "date": "1962",
+        "formerName": "French West Africa (pt.), Algeria",
+        "location": "NW Africa"
+    },
+    {
+        "newName": "Burundi",
+        "date": "1962",
+        "formerName": "Belgian Congo (pt.) , Urundi",
+        "location": "central Africa, S. of Equator"
+    },
+    {
+        "newName": "Jamaica",
+        "date": "1962",
+        "formerName": "Jamaica (Br.)",
+        "location": "isle S. of Cuba"
+    },
+    {
+        "newName": "Rwanda",
+        "date": "1962",
+        "formerName": "Belgian Congo (pt.), Ruanda",
+        "location": "central Africa, S. of Equator"
+    },
+    {
+        "newName": "Tobago (See Trinidad & Tobago)",
+        "date": "1962",
+        "formerName": " ",
+        "location": " "
+    },
+    {
+        "newName": "Trinidad & Tobago",
+        "date": "1962",
+        "formerName": "Trinidad (Br.) Tobago (Br.)",
+        "location": "isles in W. Indies, above Venezuela"
+    },
+    {
+        "newName": "Western Samoa",
+        "date": "1962",
+        "formerName": "Samoa Is. (N.Z.)",
+        "location": "S. Pacific, at Intern.Dateline"
+    },
+    {
+        "newName": "Egypt *",
+        "date": "1961",
+        "formerName": "Egypt (U.A.R.)",
+        "location": "SE. end of Mediterranean Sea"
+    },
+    {
+        "newName": "Syria *",
+        "date": "1961",
+        "formerName": "Syria (U.A.R.)",
+        "location": "E. end of Mediterranean Sea"
+    },
+    {
+        "newName": "Tanganyika",
+        "date": "1961",
+        "formerName": "Tanganyika Territory",
+        "location": "E. Africa, S. of Equator"
+    },
+    {
+        "newName": "Benin",
+        "date": "1960",
+        "formerName": "French West Africa (pt.), Dahomey (pt.)",
+        "location": "W. Africa, near Equator"
+    },
+    {
+        "newName": "Burkina",
+        "date": "1960",
+        "formerName": "French West Africa (pt.), Upper Volta",
+        "location": "W. Africa, near Equator"
+    },
+    {
+        "newName": "Cameroon",
+        "date": "1960",
+        "formerName": "French Equatorial Africa (pt.), Cameroon",
+        "location": "W. Africa, near Equator"
+    },
+    {
+        "newName": "Central African Republic",
+        "date": "1960",
+        "formerName": "French Equatorial Africa (pt.), Oubangi, Chari",
+        "location": "central Africa, N of Equator"
+    },
+    {
+        "newName": "Chad",
+        "date": "1960",
+        "formerName": "French Equatorial Africa (pt.), Chad",
+        "location": "central Africa, N. of Equator"
+    },
+    {
+        "newName": "Congo, Dem. Repub. Of *",
+        "date": "1960",
+        "formerName": "Belgian Congo (pt.)",
+        "location": "central Afr., straddles Equator"
+    },
+    {
+        "newName": "Congo, Peoples Repub.",
+        "date": "1960",
+        "formerName": "French Equatorial Africa (pt.), Gabon (pt.)",
+        "location": "central Afr., straddles Equator"
+    },
+    {
+        "newName": "Cyprus",
+        "date": "1960",
+        "formerName": "Cyprus (Br.)",
+        "location": "S. of Turkey in Mediterranean"
+    },
+    {
+        "newName": "Gabon",
+        "date": "1960",
+        "formerName": "French Equatorial Africa (pt.), Gabon",
+        "location": "W. Africa, S. of Equator"
+    },
+    {
+        "newName": "Cote D'Ivoire (Ivory Coast)",
+        "date": "1960",
+        "formerName": "French West Africa, Ivory Coast",
+        "location": "W. Africa, N. of Equator"
+    },
+    {
+        "newName": "Mali",
+        "date": "1960",
+        "formerName": "French West Africa (pt.), French Sudan",
+        "location": "NW. Africa"
+    },
+    {
+        "newName": "Mauritania",
+        "date": "1960",
+        "formerName": "French West Africa (pt.), Mauritania",
+        "location": "far W. Africa"
+    },
+    {
+        "newName": "Niger",
+        "date": "1960",
+        "formerName": "French West Africa (pt.), Niger",
+        "location": "N. central Africa"
+    },
+    {
+        "newName": "Senegal",
+        "date": "1960",
+        "formerName": "French West Africa (pt.), Senegal",
+        "location": "W. African coast"
+    },
+    {
+        "newName": "Somalia",
+        "date": "1960",
+        "formerName": "Italian, British Somaliland unifies",
+        "location": "far E. (Horn of ) Africa"
+    },
+    {
+        "newName": "Togo",
+        "date": "1960",
+        "formerName": "French West Africa (pt.), Dahomey (pt.)",
+        "location": "W. Africa, N. of Equator"
+    },
+    {
+        "newName": "Egypt U.A.R. (United Arab Republic)",
+        "date": "1958",
+        "formerName": "Egypt *",
+        "location": "SE. end of Mediterranean Sea"
+    },
+    {
+        "newName": "Guinea",
+        "date": "1958",
+        "formerName": "Fr. Guinea",
+        "location": "W. Africa, N. of Equator"
+    },
+    {
+        "newName": "Syria U.A.R. (United Arab Republic)",
+        "date": "1958",
+        "formerName": "Syria *",
+        "location": "E. end of Mediterranean Sea"
+    },
+    {
+        "newName": "Ghana",
+        "date": "1957",
+        "formerName": "Ashanti and/or Gold Coast",
+        "location": "W. Africa, N. of Equator"
+    },
+    {
+        "newName": "Malaysia",
+        "date": "1957",
+        "formerName": "Malay States",
+        "location": "S. of Vietnam / Thailand"
+    },
+    {
+        "newName": "Morocco",
+        "date": "1956",
+        "formerName": "French West Africa (pt.), Morocco",
+        "location": "NW Africa"
+    },
+    {
+        "newName": "Sudan",
+        "date": "1956",
+        "formerName": "Anglo-Egyptian Sudan",
+        "location": "S. of Egypt"
+    },
+    {
+        "newName": "Tunisia",
+        "date": "1956",
+        "formerName": "French West Africa (pt.), Tunisia",
+        "location": "N. African coast"
+    },
+    {
+        "newName": "Vietnam, North",
+        "date": "1954",
+        "formerName": "Vietnam *",
+        "location": "S. of China"
+    },
+    {
+        "newName": "Vietnam, South",
+        "date": "1954",
+        "formerName": "Vietnam *",
+        "location": "S. of China"
+    },
+    {
+        "newName": "Korea, North",
+        "date": "1953",
+        "formerName": "Korea",
+        "location": "W. of Japan, E. of China"
+    },
+    {
+        "newName": "Korea, South",
+        "date": "1953",
+        "formerName": "Korea",
+        "location": "W. of Japan, E. of China"
+    },
+    {
+        "newName": "Ethiopia *",
+        "date": "1952",
+        "formerName": "Ethiopia, Eritrea unifies",
+        "location": "S. end of Red Sea"
+    },
+    {
+        "newName": "Cambodia",
+        "date": "1949",
+        "formerName": "French Indo-China",
+        "location": "betw. Vietnam / Thailand"
+    },
+    {
+        "newName": "Germany, East",
+        "date": "1949",
+        "formerName": "Germany *",
+        "location": "northern Europe"
+    },
+    {
+        "newName": "Germany, West",
+        "date": "1949",
+        "formerName": "Germany *",
+        "location": "northern Europe"
+    },
+    {
+        "newName": "Indonesia",
+        "date": "1949",
+        "formerName": "Netherland Indies",
+        "location": "N.- NW. of Australia"
+    },
+    {
+        "newName": "Laos",
+        "date": "1949",
+        "formerName": "French Indo-China",
+        "location": "betw. Vietnam / Thailand"
+    },
+    {
+        "newName": "Thailand *",
+        "date": "1949",
+        "formerName": "Siam *",
+        "location": "SE. of Burma"
+    },
+    {
+        "newName": "Vietnam *",
+        "date": "1949",
+        "formerName": "French Indo-China",
+        "location": "S. of China"
+    },
+    {
+        "newName": "Israel",
+        "date": "1948",
+        "formerName": "Palestine (pt.)",
+        "location": "betw. Syria / Egypt"
+    },
+    {
+        "newName": "Sri Lanka",
+        "date": "1948",
+        "formerName": "Ceylon",
+        "location": "isle S. of India"
+    },
+    {
+        "newName": "Pakistan",
+        "date": "1947",
+        "formerName": "Baluchistan",
+        "location": "W. of India"
+    },
+    {
+        "newName": "Jordan",
+        "date": "1946",
+        "formerName": "Trans Jordan",
+        "location": "E. of Israel"
+    },
+    {
+        "newName": "Philippines",
+        "date": "1946",
+        "formerName": "Philippine Islands",
+        "location": "S.E. of China"
+    },
+    {
+        "newName": "Korea",
+        "date": "1945",
+        "formerName": "Chosen (Jap.)",
+        "location": "W. of Japan, E. of China"
+    },
+    {
+        "newName": "Siam *",
+        "date": "1945",
+        "formerName": "Thailand *",
+        "location": "SE. of Burma"
+    },
+    {
+        "newName": "Eritrea *",
+        "date": "1941",
+        "formerName": "Italian East Africa (pt.), Eritrea",
+        "location": "N. of Ethiopia, S. end of Red Sea"
+    },
+    {
+        "newName": "Ethiopia *",
+        "date": "1941",
+        "formerName": "Italian East Africa (pt.), Ethiopia",
+        "location": "far E. (Horn of ) Africa"
+    },
+    {
+        "newName": "Lithuania*",
+        "date": "1940",
+        "formerName": "Lithuanian S.S.R.",
+        "location": "NE. Europe"
+    },
+    {
+        "newName": "Latvia *",
+        "date": "1940",
+        "formerName": "Latvian S.S.R.",
+        "location": "NE. Europe"
+    },
+    {
+        "newName": "Estonia *",
+        "date": "1940",
+        "formerName": "Estonian S.S.R.",
+        "location": "NE. Europe"
+    },
+    {
+        "newName": "Thailand *",
+        "date": "1939",
+        "formerName": "Siam *",
+        "location": "SE. of Burma"
+    }
+]

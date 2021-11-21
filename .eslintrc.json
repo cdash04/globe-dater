@@ -32,6 +32,7 @@
               "ts": "never",
               "tsx": "never"
             }
-         ]
+         ],
+        "func-names": "off"
     }
 }
